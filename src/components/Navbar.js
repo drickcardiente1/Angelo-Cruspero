@@ -54,7 +54,7 @@ class NavComponent extends React.Component {
           >
             <Container>
               <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
-                <h1 style={{color:"white"}}>Name</h1>
+                <h1 style={{color:"white"}}>MY PORTFOLIO</h1>
               </NavbarBrand>
             </Container>
           </Navbar>

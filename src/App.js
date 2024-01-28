@@ -105,7 +105,7 @@ class App extends React.Component {
                           <img
                             alt="..."
                             className="rounded-circle"
-                            src={require("./assets/img/theme/team-4-800x800.jpg")}
+                            src={require("./assets/img/Character/cruspero.jpg")}
                           />
                         </a>
                       </div>
@@ -118,7 +118,7 @@ class App extends React.Component {
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">www/name.com</span>
+                          <span className="heading">Angelo R. Cruspero</span>
                         </div>
                       </div>
                     </Col>
@@ -127,11 +127,7 @@ class App extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                        Hi My name is Angelo R. Cruspero. I live in Angilan Antequera Bohol. I was born on December 10,1997 in Surigao City. I completed my elementary in Angilan Elementary School and High school in Christ the King Academy. I took Bachelor of Science in Marine Transportation in Cristal e College and completed all the academic requirements on march 2018. And now I am currently taking Bachelor of Science in Information Technology and I am in my fourth year
                         </p>
                       </Col>
                     </Row>

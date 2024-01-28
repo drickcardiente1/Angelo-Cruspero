@@ -29,7 +29,7 @@ class FooterComponent extends React.Component {
                 <Nav className=" nav-footer justify-content-end">
                   <NavItem>
                     <NavLink>
-                      NAME
+                      @Angelo
                     </NavLink>
                   </NavItem>
                 </Nav>
